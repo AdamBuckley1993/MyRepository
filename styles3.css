@@ -1,0 +1,27 @@
+body {
+    background-color: purple;
+}
+header {
+    color: brown;
+    background-color: cyan;
+}
+p {
+    color: indigo;
+    background-color: magenta;
+    font-weight: bold;
+}
+p1 {
+    color: orange;
+    background-color: red;
+    font-style: italic;
+}
+p2 {
+    color: green;
+    background-color: yellow;
+    text-decoration: underline;
+}
+p3 {
+    color: pink;
+    background-color: blue;
+    font-size: 2em;
+}
